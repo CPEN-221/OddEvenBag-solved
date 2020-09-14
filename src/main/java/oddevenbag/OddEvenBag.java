@@ -1,5 +1,3 @@
-// TODO implement this class and associated methods
-
 package oddevenbag;
 
 import java.util.ArrayList;
